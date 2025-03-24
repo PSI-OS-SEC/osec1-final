@@ -1,9 +1,8 @@
-## Pruebas - Usuario `exam-user-#`
 
-Grupo: [grupo-deseado]  
-Usuario: `exam-user-#`
+## Validaciones
 
----
+### Pruebas - Usuario `exam-user-#`
+- [ ] id `exam-user-#`
 
 ### Acceso inicial
 - [ ] SSH desde PC cliente a `dbserver` con `exam-user-#`
