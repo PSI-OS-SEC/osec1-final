@@ -12,25 +12,25 @@ Usuario: `exam-user-#`
 - [ ] Con `sudo`, intentar agregar un usuario en `dbserver`  
       Resultado esperado: No debe permitir
 
-### Detención de base de datos
+### Detener de base de datos
 - [ ] Con `sudo`, detener la base de datos en `dbserver`  
       Resultado esperado: Debe permitir sin contraseña
 - [ ] Verificar WordPress desde navegador  
       Resultado esperado: Error de conexión a base de datos
 
-### Inicio de base de datos
+### Iniciar de base de datos
 - [ ] Desde otro terminal, con `sudo` usando usuario `PROYECTO`, iniciar la base de datos en `dbserver`
 - [ ] Verificar WordPress desde navegador  
       Resultado esperado: WordPress disponible
 - [ ] Cerrar sesión en `dbserver`
 
-### Detención del servicio web
+### Detener del servicio web
 - [ ] Desde otra terminal, con `sudo` usando `exam-user-#`, detener el servicio web en `webserver`
 - [ ] Verificar desde navegador  
       Resultado esperado: Sitio no disponible
 - [ ] Cerrar sesión en `webserver`
 
-### Inicio del servicio web
+### Iniciar del servicio web
 - [ ] Desde otra terminal, con `sudo` usando usuario `PROYECTO`, iniciar el servicio web en `webserver`
 - [ ] Verificar desde navegador  
       Resultado esperado: Sitio disponible
