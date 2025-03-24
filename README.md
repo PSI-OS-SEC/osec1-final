@@ -11,7 +11,7 @@ Grupos de OSEC1
 | 7     | Raúl Corado         | Hugo Cabrera       |
 | 8     | Vinicio Recinos     | Pablo Santisteban  |
 | 9     | Douglas García      |                    |
-| 10    | William Chávez      | Emerson            |
+| 10    | William Chávez      | Emerson González   |
 | 11    | Josue Chávez        | Carlos Barrera     |
 | 12    | Fernando Ortiz      | Pablo Méndez       |
 
