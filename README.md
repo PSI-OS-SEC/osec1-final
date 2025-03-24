@@ -14,6 +14,10 @@ Grupos de OSEC1
 | 10    | William Chávez      | Emerson González   |
 | 11    | Josue Chávez        | Carlos Barrera     |
 | 12    | Fernando Ortiz      | Pablo Méndez       |
+| 13    | Gabriel Diaz         |        |
+| 14    | Paulo Briones        |        |
+| 15    | Erik Apen            |        |
+
 
 # Final práctico OSEC1
 
