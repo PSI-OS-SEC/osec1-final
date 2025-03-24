@@ -12,9 +12,9 @@ Usuario: `exam-user-#`
 - [ ] Con `sudo`, intentar agregar un usuario en `dbserver`  
       Resultado esperado: No debe permitir
 
-### Detener de base de datos
+### Detener base de datos
 - [ ] Con `sudo`, detener la base de datos en `dbserver`  
-      Resultado esperado: Debe permitir sin contraseña
+      Resultado esperado: Debe permitirlo sin contraseña
 - [ ] Verificar WordPress desde navegador  
       Resultado esperado: Error de conexión a base de datos
 
