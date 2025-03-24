@@ -6,8 +6,8 @@
 
 # Usuario y Grupos
 
-1. Crear el grupo ```exam-#``` con el id ``2211``. Remplazar ```#``` por el orden en el que aparece su nombre en su grupo de proyecto.
-2. Crear el usuario ```exam-user-#``` con el id ```2212``` y deberá pertenecer al grupo secundario ```exam-#```.
+1. Crear el grupo ```exam-#``` con el id ``221#``. Remplazar ```#``` por el orden en el que aparece su nombre en su grupo de proyecto.
+2. Crear el usuario ```exam-user-#``` con el id ```222#``` y deberá pertenecer al grupo secundario ```exam-#```.
 3. Los usuarios y grupos deberán de existir en todos los sistemas del proyecto.
 
 # Sudo
