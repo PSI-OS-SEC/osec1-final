@@ -38,6 +38,8 @@ Grupos de OSEC1
 2. No se debe de solicitar contraseña cuando el usuario ```exam-user-#``` ejecute sudo. 
 3. Esta configuración debe estar presente en todos los sistemas del proyecto.
 
+# Bastion
 
+1. Llave para el usuario ```exam-user-#``` y utilizar el Bastion via Jump Box para conectarse al sistema deseado.
 
 
